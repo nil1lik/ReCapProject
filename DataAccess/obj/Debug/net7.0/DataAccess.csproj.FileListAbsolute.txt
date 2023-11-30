@@ -1,0 +1,15 @@
+/Users/nilapril/Projects/ReCapProject/DataAccess/bin/Debug/net7.0/DataAccess.deps.json
+/Users/nilapril/Projects/ReCapProject/DataAccess/bin/Debug/net7.0/DataAccess.dll
+/Users/nilapril/Projects/ReCapProject/DataAccess/bin/Debug/net7.0/DataAccess.pdb
+/Users/nilapril/Projects/ReCapProject/DataAccess/bin/Debug/net7.0/Entities.dll
+/Users/nilapril/Projects/ReCapProject/DataAccess/bin/Debug/net7.0/Entities.pdb
+/Users/nilapril/Projects/ReCapProject/DataAccess/obj/Debug/net7.0/DataAccess.csproj.AssemblyReference.cache
+/Users/nilapril/Projects/ReCapProject/DataAccess/obj/Debug/net7.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nilapril/Projects/ReCapProject/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfoInputs.cache
+/Users/nilapril/Projects/ReCapProject/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfo.cs
+/Users/nilapril/Projects/ReCapProject/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/nilapril/Projects/ReCapProject/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CopyComplete
+/Users/nilapril/Projects/ReCapProject/DataAccess/obj/Debug/net7.0/DataAccess.dll
+/Users/nilapril/Projects/ReCapProject/DataAccess/obj/Debug/net7.0/refint/DataAccess.dll
+/Users/nilapril/Projects/ReCapProject/DataAccess/obj/Debug/net7.0/DataAccess.pdb
+/Users/nilapril/Projects/ReCapProject/DataAccess/obj/Debug/net7.0/ref/DataAccess.dll
